@@ -4,6 +4,9 @@ A custom rental property management solution, which allows a property manager to
 ## Heroku Deployment: 
 https://moatbyoceans11.herokuapp.com/
 
+## View Our app pitch:
+https://youtu.be/4AfRl6Cwjr4
+
 ## Description:
 
 * This program is designed to perform CRUD (Create, Read, Update, Delete) operations from a relational database on a front-end Rental Property Management Website.
