@@ -7,9 +7,6 @@ https://protected-savannah-11948.herokuapp.com/
 ## Product Pitch:
 https://youtu.be/4AfRl6Cwjr4
 
-## View Our app pitch:
-https://youtu.be/4AfRl6Cwjr4
-
 ## Description:
 
 * This program is designed to perform CRUD (Create, Read, Update, Delete) operations from a relational database on a front-end Rental Property Management Website.
