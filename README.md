@@ -1,8 +1,8 @@
 # MOAT
-A custom rental property management solution, which allows a property manager to create a platform for their tenants to communicate upwards. A landlord is able to establish their buildings and provide tenants with access to just the building or property they are a part of. The tenant is able to create an account to begin posting maintenance issues, ratings, and communicate with the landlord.
+A custom rental property management solution, which allows a property manager to create a platform for their tenants to communicate upwards. A landlord can establish their buildings and provide tenants with access to just the building or property they are a part of. The tenant can create an account to begin posting maintenance issues, and ratings, and communicate with the landlord.
 
 ## Heroku Deployment: 
-[Link to Live Application](https://moatbyoceans11.herokuapp.com/)
+Currently under construction, thank you for your patience
 
 ## Product Pitch:
 https://youtu.be/4AfRl6Cwjr4
@@ -10,8 +10,8 @@ https://youtu.be/4AfRl6Cwjr4
 ## Description:
 
 * This program is designed to perform CRUD (Create, Read, Update, Delete) operations from a relational database on a front-end Rental Property Management Website.
-* Backend: The back-end of this project was completed using Node.js, express server, mysql database, npm Sequelize and tested in a backend environment (Insomnia).
-* Frontend: This front-end of this project was completed using npm handlebars, css, rendered with front-end javascript fetch requests.
+* Backend: The back-end of this project was completed using Node.js, express server, MySQL database, and npm Sequelize and tested in a backend environment (Insomnia).
+* Frontend: This front-end of this project was completed using npm handlebars and CSS, rendered with front-end javascript fetch requests.
 
 ## Built By:
 * JavaScript
